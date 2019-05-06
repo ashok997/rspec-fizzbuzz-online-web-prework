@@ -5,10 +5,10 @@ def fizzbuzz(int)
     result = "FizzBuzz"
     result
   end
-#    elsif (int%3 == 0)
+  elsif (int%3 == 0)
       result ="Fizz"
       result 
-#      end
+     end
 #    else if (int%5 ==0)
 #      result "Buzz"
 #      result
