@@ -6,9 +6,11 @@ def fizzbuzz(int)
     result
     elsif (int%3 == 0)
       result ="Fizz"
+      result 
       end
     else if (int%5 ==0)
       result "Buzz"
+      result
       end
     else 
       result
