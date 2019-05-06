@@ -4,5 +4,11 @@ def fizzbuzz(int)
   if (int%3 == 0 && int%5 == 0)
     result = "FizzBuzz"
     result
+    elsif (int%3 == 0)
+      result ="Fizz"
+    else if (int%5 ==0)
+      result "Buzz"
+      
   end
+  
 end
