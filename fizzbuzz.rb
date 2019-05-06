@@ -7,7 +7,7 @@ def fizzbuzz(int)
   elsif (int%3 == 0)
       result ="Fizz"
       result 
-    else if (int%5 ==0)
+    elsif (int%5 ==0)
       result "Buzz"
       result
 #      end
